@@ -1,11 +1,11 @@
 # Site settings
 author: Fausto Llapa
-title: 
+title: A Future Software Engineer
 header-img: img/home-bg.png
 email: faustollapa850@gmail.com
 copyright_name: Fausto Llapa
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Beginnings
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  faustollapa
